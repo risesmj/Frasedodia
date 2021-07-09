@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_22fc6848661ba9e25c0c3fb25357fd1c6f6e150e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0d65763a06a81974a17d1353b8ff12cb94634d21">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\instant-run_887e23d658c38f3549a99be039acdd3a9c28597f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-26.0.0-alpha1_c986eda9f52ce21e586e9108a7d8793177d1c622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_5c36dc78856c2a8220038302186f48893d18638b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-26.0.0-alpha1_99ace878565428a66f515446bd64aa7fffdd346b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_c986eda9f52ce21e586e9108a7d8793177d1c622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_9e7a1d80f811351ba103d990854fbc40dc77cc76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_5c36dc78856c2a8220038302186f48893d18638b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_cabe1b6dca89119f5dc4ef7f8c22d6b3b3eb0e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-26.0.0-alpha1_9e7a1d80f811351ba103d990854fbc40dc77cc76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-26.0.0-alpha1_ec8d760a8ad30af9b023c0ee69405bd37b663fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-26.0.0-alpha1_8c7aed3020e6f6ad2a11a488078467fe709708e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_99ace878565428a66f515446bd64aa7fffdd346b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_8c7aed3020e6f6ad2a11a488078467fe709708e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d08d073edf08fbddb0346a97107df67cfb6a56b7">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d9df18106e61c90cc8634f60de6bc25c3b2d1bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-26.0.0-alpha1_b99b477a3a944b22b1f1fbcbcd93d55620dafb8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_484a6dcce1f780561ee5ec19d58596a0e67b3f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_b99b477a3a944b22b1f1fbcbcd93d55620dafb8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-26.0.0-alpha1_cabe1b6dca89119f5dc4ef7f8c22d6b3b3eb0e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_5a98350dccb23f42d58f4438f3bd71053f6551be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_ec8d760a8ad30af9b023c0ee69405bd37b663fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support.constraint-constraint-layout-1.0.2_5a98350dccb23f42d58f4438f3bd71053f6551be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-26.0.0-alpha1_25cd890dd67242a732f7b00183e4a7e7cbe8e196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-26.0.0-alpha1_22fc6848661ba9e25c0c3fb25357fd1c6f6e150e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_484a6dcce1f780561ee5ec19d58596a0e67b3f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Frasedodia\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_25cd890dd67242a732f7b00183e4a7e7cbe8e196.jar" />
+    </item>
+
+</items>
